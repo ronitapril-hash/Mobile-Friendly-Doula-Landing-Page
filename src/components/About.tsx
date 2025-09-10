@@ -8,7 +8,7 @@ const About = () => {
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="md:w-1/3">
             <div className="rounded-full overflow-hidden w-64 h-64 mx-auto border-4 border-[#f0e6e0]">
-              <img src="https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Ronit April Varga" className="w-full h-full object-cover" />
+              <img src="public/Screenshot 2025-09-09 at 5.15.01 PM.png" />
             </div>
           </div>
           <div className="md:w-2/3">
